@@ -12,7 +12,7 @@
 9. Implement product cipher transposition operation.
 10. Illustrate the Ciphertext only and Known Plaintext attacks.
 11. Implement a stream cipher technique
-12. 
+ 
 ANSWER-10
 
 CipherText-only Attack
